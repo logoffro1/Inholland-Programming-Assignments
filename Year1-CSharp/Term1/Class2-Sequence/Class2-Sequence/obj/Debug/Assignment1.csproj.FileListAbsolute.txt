@@ -1,0 +1,7 @@
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class2-Sequence\Class2-Sequence\bin\Debug\Class2-Sequence.exe.config
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class2-Sequence\Class2-Sequence\bin\Debug\Class2-Sequence.exe
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class2-Sequence\Class2-Sequence\bin\Debug\Class2-Sequence.pdb
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class2-Sequence\Class2-Sequence\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class2-Sequence\Class2-Sequence\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class2-Sequence\Class2-Sequence\obj\Debug\Class2-Sequence.exe
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class2-Sequence\Class2-Sequence\obj\Debug\Class2-Sequence.pdb
