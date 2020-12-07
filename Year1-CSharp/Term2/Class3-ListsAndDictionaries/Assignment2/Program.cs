@@ -30,7 +30,6 @@ namespace Assignment2
             else
                 Console.WriteLine($"Too bad, you did not guess the word ({hangman.secretWord})");
 
-
         }
         private List<string> ListOfWords()
         {
