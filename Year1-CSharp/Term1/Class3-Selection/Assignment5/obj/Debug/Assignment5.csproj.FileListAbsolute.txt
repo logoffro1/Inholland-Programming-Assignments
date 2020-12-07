@@ -1,0 +1,6 @@
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment5\obj\Debug\Assignment5.pdb

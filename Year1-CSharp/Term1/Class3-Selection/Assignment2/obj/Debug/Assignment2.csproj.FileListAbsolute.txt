@@ -1,0 +1,7 @@
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\logoff\Programming\Year1-CSharp\Term1\Class3-Selection\Assignment2\obj\Debug\Assignment2.pdb
